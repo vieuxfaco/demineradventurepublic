@@ -1,4 +1,4 @@
-# demineradventurepublic
+# Deminer Adventure Public Repository
 
 Public repository for issues and wiki
 
